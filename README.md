@@ -17,5 +17,10 @@ PythonのBeautifulsoup.find的なことをLazarusで実現させるために簡�
   + 戻り値: 抽出されたテキスト
  
 
+※使い方はサンプルプロジェクトProject1を参照してください。
+
+### 必要なライブラリ
+TRegExpr( https://github.com/andgineer/TRegExpr)が必要です。また、プロジェクトオプションのパスにLazarusインストールフォルダ内のcomponent\lazutilフォルダを指定して下さい(Project1はC:\Lazarus\component\lazutilに設定しています)。
+
 ### ライセンス
 MIT
