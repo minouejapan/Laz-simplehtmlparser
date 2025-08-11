@@ -18,6 +18,7 @@ PythonのBeautifulsoup.find的なことをLazarusで実現させるために簡�
  
 
 ※使い方はサンプルプロジェクトProject1を参照してください。
+※尚、sample-exe.zipはサンプルプロジェクト実行ファイルです。
 
 ### 必要なライブラリ
 TRegExpr( https://github.com/andgineer/TRegExpr)が必要です。また、プロジェクトオプションのパスにLazarusインストールフォルダ内のcomponent\lazutilフォルダを指定して下さい(Project1はC:\Lazarus\component\lazutilに設定しています)。
